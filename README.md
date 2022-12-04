@@ -1,5 +1,5 @@
 # Telefon_rehber_uygulamasi
-cPROJE-1 : Console Telefon Rehberi Uygulacması
+PROJE-1 : Console Telefon Rehberi Uygulaması
 
 
 Yeni bir console uygulaması açarak telefon rehberi uygulaması yazınız. Uygulamada olması gereken özellikler aşağıdaki gibidir.
@@ -134,4 +134,4 @@ Arama sonucuna göre bulunan veriler aşağıdaki formatta gösterilmeli.
  .
 
 
-** Her bir feature ayrı class/method kullanarak yapılmalıdır. Mümkün olduğunca sorumlulukları parçalanmalı ve kod okunabilir olmalıdır.
+
