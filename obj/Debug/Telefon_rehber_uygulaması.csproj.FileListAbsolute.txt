@@ -1,0 +1,6 @@
+D:\patika\Telefon_rehber_uygulaması\Telefon_rehber_uygulaması\bin\Debug\Telefon_rehber_uygulaması.exe.config
+D:\patika\Telefon_rehber_uygulaması\Telefon_rehber_uygulaması\bin\Debug\Telefon_rehber_uygulaması.exe
+D:\patika\Telefon_rehber_uygulaması\Telefon_rehber_uygulaması\bin\Debug\Telefon_rehber_uygulaması.pdb
+D:\patika\Telefon_rehber_uygulaması\Telefon_rehber_uygulaması\obj\Debug\Telefon_rehber_uygulaması.csprojResolveAssemblyReference.cache
+D:\patika\Telefon_rehber_uygulaması\Telefon_rehber_uygulaması\obj\Debug\Telefon_rehber_uygulaması.exe
+D:\patika\Telefon_rehber_uygulaması\Telefon_rehber_uygulaması\obj\Debug\Telefon_rehber_uygulaması.pdb
